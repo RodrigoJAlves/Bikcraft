@@ -1,0 +1,13 @@
+.interna_portfolio {
+  background: url(../img/bg-portfolio.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.quote-portfolio .quote-externo {
+  color: #000;
+  text-align: center;
+}
+
+.portfolio ul li:last-child {
+  margin-top: 20px;
+}
